@@ -1,4 +1,6 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [BeST Research Group](https://best-urjc.netlify.app/)
+
+## [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
