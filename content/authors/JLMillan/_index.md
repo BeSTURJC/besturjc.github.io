@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julio S Lora Millán
+title: Julio S. Lora Millán
 
 # Is this the primary user of the site?
 superuser: false
