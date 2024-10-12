@@ -1,5 +1,5 @@
 ---
-title: Tecnología EMG. descubre el futuro de la rehabilitación asistida
+title: Tecnología EMG. Descubre el futuro de la rehabilitación asistida
 
 event: II Jornadas de Sostenibilidad
 event_url: https://eventos.urjc.es/123205/detail/jornadas-de-sostenibilidad-escet.html
