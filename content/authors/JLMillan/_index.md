@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Julio S. Lora Millán
+title: Rubén Nieto Capuchino
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,57 +14,71 @@ organizations:
   url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include rehabilitation robotics and assistive technology.
+bio: My research interests include FPGAs, System-on-Chip, robotics, among others.
 
 education:
   courses:
-  - course: Ph.D. in Automatic Control and Robotics
-    institution: Universidad Politécnica de Madrid
+  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
+    institution: University of Alcalá
     year: 2020
-#   - course: Automatic Control and Industrial Electronic Engineering
-#     institution: Universidad de Córdoba
-#     year: 2016
-#   - course: Industrial Electronics Engineering Technician
-#     institution: Universidad de Córdoba
-#     year: 2012
+#  - course: M.Sc. in Telecommunication Engineering
+#    institution: University of Alcala
+#    year: 2016
+#  - course: B.Sc. in Telecommunication Technologies Engineering
+#    institution: University of Alcala
+#    year: 2015
 
 interests:
+- System-on-Chip
+- Signal Processing
+- Embedded Systems
 - Robotics
-- Control Engineering
-- Assistive technologies
-- Bioengineering
-- Aplied Neuroscience
+- Sensor Networks
+- Multi-core Processor
+- Power-Line Communications
+- Non-Intrusive Load Monitoring
 
 
 # Social/Academic Networking
-
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#  form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: university
   icon_pack: fas
-  link: https://gestion2.urjc.es/pdi/ver/julio.lora
+  link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:julio.lora@urjc.es'
+  link: 'mailto:ruben.nieto@urjc.es'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/rubennc91
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=6FaZevUAAAAJ
+  link: https://scholar.google.co.uk/citations?user=YvSfYZUAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rubennc91
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b/
+  link: https://www.linkedin.com/in/rubennietoc/
 # Link to a PDF of your resume/CV from the About widget.
-
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "julio.lora@urjc.com"
+email: "ruben.nieto@urjc.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
-Julio Lora is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Industrial Robotics and Control Engineering and his main research interests include rehabilitation robotics, assistive technologies and bioenegineering.
+Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
-He received his undergaduated formation at the University of Cordoba where he obtained a Bachelor's and Master's degree in Automatic Control and Industrial Electronic Engineering. In 2022, he obtained his PhD in Automatic Control and Robotics at Technical University of Madrid, while working as pre-doctoral researcher at the Centre of Automation and Robotics from the Spanish National Research Council.
-
+He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 

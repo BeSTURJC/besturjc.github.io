@@ -14,7 +14,7 @@ organizations:
   url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+bio: My research interests include FPGAs, System-on-Chip, robotics, among others.
 
 education:
   courses:
