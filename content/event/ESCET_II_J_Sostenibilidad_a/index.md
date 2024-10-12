@@ -4,7 +4,7 @@ title: Tecnología EMG. Descubre el futuro de la rehabilitación asistida
 event: II Jornadas de Sostenibilidad
 event_url: https://eventos.urjc.es/123205/detail/jornadas-de-sostenibilidad-escet.html
 
-location: Rey Juan Carlos University
+location: Rey Juan Carlos University 
 address:
   street: Calle Tulipan
   city: Mostoles
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [RNieto]
+authors: [RNieto SMurano PFernandez]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -52,7 +52,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
----
+
 
 # Slides can be added in a few ways:
 # 
@@ -61,3 +61,5 @@ projects:
 # - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 # 
 # Further event details, including page elements such as image galleries, can be added to the body of this page.
+---
+Aulario II - Aula 006 13:20 a 13:50
