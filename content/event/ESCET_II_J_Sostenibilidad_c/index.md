@@ -12,8 +12,8 @@ address:
   postcode: '28933'
   country: Spain
 
-summary: En esta actividad, los participantes aprenderán cómo la electroencefalografía (EEG) capta la actividad eléctrica del cerebro y su aplicación para controlar un robot mediante señales cerebrales.
-abstract: En esta actividad, los participantes aprenderán las bases sobre el funcionamiento eléctrico del cerebro y cómo verlas. Esta actividad eléctrica se puede captar a través de diversas técnicas, en este taller nos centraremos en la electroencefalografía o EEG. Mediante el uso de instrumental básico de laboratorio, veremos ejemplos y comprobaremos cómo se puede controlar un robot con el poder de la mente.
+summary: En este taller se demostrará como la robótica puede asistir al movimiento de las personas con una debilidad en las piernas debido a una enfermedad neurológica o al envejecimiento.
+abstract: En este taller se demostrará como la robótica puede asistir al movimiento de las personas con una debilidad en las piernas debido a una enfermedad neurológica o al envejecimiento.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
