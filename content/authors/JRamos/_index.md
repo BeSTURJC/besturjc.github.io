@@ -50,10 +50,10 @@ social:
   link:"mailto:jaime.ramos@urjc.es"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=uNATpOIAAAAJ&hl=es
+  link: https://scholar.google.co.uk/citations?user=uNATpOIAAAAJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jaime-ramos-rojas-991bbb120/
+  link: https://www.linkedin.com/in/jaime-ramos-rojas-991bbb120
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
