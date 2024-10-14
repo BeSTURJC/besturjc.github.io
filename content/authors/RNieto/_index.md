@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rubén Nieto Capuchino
+title: Ruben Nieto Capuchino
 
 # Is this the primary user of the site?
 superuser: false
@@ -35,7 +35,7 @@ interests:
 - Robotics
 - Sensor Networks
 - Multi-core Processor
-- Power-Line Communications
+# - Power-Line Communications
 - Non-Intrusive Load Monitoring
 
 

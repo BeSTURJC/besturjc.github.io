@@ -6,7 +6,7 @@ title: Jaime Ramos Rojas
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: PPI Researcher and PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+bio: My research interests include rehabilitation engineering focused on robotic devices, biomechanics of human motor control and movement analysis, among others.
 
 education:
   courses:
-  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
-    institution: University of Alcala
-    year: 2020
+  - course: Ph.D. in Industrial Technologies.
+    institution: Rey Juan Carlos University
+    year: present
 #  - course: M.Sc. in Telecommunication Engineering
 #    institution: University of Alcala
 #    year: 2016
@@ -29,14 +29,12 @@ education:
 #    year: 2015
 
 interests:
-- System-on-Chip
-- Signal Processing
-- Embedded Systems
-- Robotics
-- Sensor Networks
-- Multi-core Processor
-- Power-Line Communications
-- Non-Intrusive Load Monitoring
+- Biomedical Engineering
+- Biomechanics
+- Human motor control
+- Rehabilitation
+- Exoskeletons
+- Movement analysis
 
 
 # Social/Academic Networking
@@ -46,22 +44,16 @@ interests:
 social:
 - icon: university
   icon_pack: fas
-  link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
+  link: https://gestion2.urjc.es/pdi/ver/jaime.ramos
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ruben.nieto@urjc.es'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/rubennc91
+  link:"mailto:jaime.ramos@urjc.es"
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=YvSfYZUAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rubennc91
+  link: https://scholar.google.co.uk/citations?user=uNATpOIAAAAJ&hl=es
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rubennietoc/
+  link: https://www.linkedin.com/in/jaime-ramos-rojas-991bbb120/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruben.nieto@urjc.com"
+email: "jaime.ramos@urjc.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -77,10 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
-Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+Jaime Ramos is a PPI Researcher in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University in which he is developing his PhD in Implementation and evaluation of a new robotic paradigm for gait rehabilitation based on reinforcement learning. His interests are focused on the development and utilization of robotic systems for the rehabilitation and assistance of impaired patients from the technical and clinical perspectives and the study of the biomechanics of motor control.
 
-He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
+He received his formation at the Technical University of Madrid and Politecnico di Milano, where he obtained a Bachelor's degree and a Master's degree in Biomedical Engineering, respectively.
 
 
