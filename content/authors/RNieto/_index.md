@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruben Nieto Capuchino
+title: Rubén Nieto Capuchino
 
 # Is this the primary user of the site?
 superuser: false
