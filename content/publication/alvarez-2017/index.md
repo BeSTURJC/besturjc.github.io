@@ -10,9 +10,9 @@ authors:
 - A. Gil-Agudo
 - J. L. Pons
 date: '2017-07-01'
-publishDate: '2024-10-18T09:02:11.642868Z'
+publishDate: '2024-10-18T10:28:08.156010Z'
 publication_types:
-- 0
+- 5
 publication: '*2017 International Conference on Rehabilitation Robotics (ICORR)*'
 doi: 10.1109/icorr.2017.8009449
 links:

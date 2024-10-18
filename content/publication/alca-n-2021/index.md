@@ -18,9 +18,9 @@ authors:
 - Felipe Machado
 - Angel Torrado-Carvajal
 date: '2021-12-01'
-publishDate: '2024-10-18T09:02:12.219880Z'
+publishDate: '2024-10-18T10:28:08.514077Z'
 publication_types:
-- 1
+- 0
 publication: '*Electronics*'
 doi: 10.3390/electronics10243118
 links:
