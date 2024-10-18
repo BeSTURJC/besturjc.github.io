@@ -8,9 +8,9 @@ authors:
 - Filipe Oliveira Barroso
 - Juan C. Moreno
 date: '2023-10-01'
-publishDate: '2024-10-18T10:42:47.869316Z'
+publishDate: '2024-10-18T13:01:33.826797Z'
 publication_types:
-- 1
+- 4
 publication: '*Journal of NeuroEngineering and Rehabilitation*'
 doi: 10.1186/s12984-023-01268-8
 links:
