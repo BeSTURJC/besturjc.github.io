@@ -1,38 +1,41 @@
 ---
-title: 'Review of NILM applications in smart grids: power quality assessment and assisted
-  independent living'
+title: 'Upper limb rehabilitation after spinal cord injury: a treatment based on a
+  data glove and an immersive virtual reality environment'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Patricio G. Donato
-- Alvaro Hernandez
-- Marcos A. Funes
-- Ignacio Carugati
-- Ruben Nieto
-- Jesus Urena
+- Iris Dimbwadyo-Terrer
+- Fernando Trincado-Alonso
+- Ana de los Reyes-Guzmán
+- Miguel A. Aznar
+- Cesar Alcubilla
+- Soraya Pérez-Nombela
+- Antonio del Ama-Espinosa
+- Begoña Polonio-López
+- Ángel Gil-Agudo
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-10-01'
+date: '2015-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-10-18T08:45:02.357468Z'
+publishDate: '2024-10-18T08:45:01.063302Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*2020 Argentine Conference on Automatic Control (AADECA)*'
+publication: '*Disability and Rehabilitation: Assistive Technology*'
 publication_short: ''
 
-doi: 10.23919/aadeca49780.2020.9301641
+doi: 10.3109/17483107.2015.1027293
 
 abstract: ''
 
@@ -74,7 +77,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: http://dx.doi.org/10.23919/AADECA49780.2020.9301641
+  url: http://dx.doi.org/10.3109/17483107.2015.1027293
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

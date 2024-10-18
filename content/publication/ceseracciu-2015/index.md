@@ -1,27 +1,33 @@
 ---
-title: 'Review of NILM applications in smart grids: power quality assessment and assisted
-  independent living'
+title: 'A flexible architecture to enhance wearable robots: Integration of EMG-informed
+  models'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Patricio G. Donato
-- Alvaro Hernandez
-- Marcos A. Funes
-- Ignacio Carugati
-- Ruben Nieto
-- Jesus Urena
+- E. Ceseracciu
+- A. Mantoan
+- M. Bassa
+- J. C. Moreno
+- J. L. Pons
+- G. Asin Prieto
+- A. J. del Ama
+- E. Marquez-Sanchez
+- A. Gil-Agudo
+- C. Pizzolato
+- D. G. Lloyd
+- M. Reggiani
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-10-01'
+date: '2015-09-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-10-18T08:45:02.357468Z'
+publishDate: '2024-10-18T08:45:01.103952Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +35,11 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2020 Argentine Conference on Automatic Control (AADECA)*'
+publication: '*2015 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)*'
 publication_short: ''
 
-doi: 10.23919/aadeca49780.2020.9301641
+doi: 10.1109/iros.2015.7353997
 
 abstract: ''
 
@@ -74,7 +81,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: http://dx.doi.org/10.23919/AADECA49780.2020.9301641
+  url: http://dx.doi.org/10.1109/IROS.2015.7353997
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,27 +1,24 @@
 ---
-title: 'Review of NILM applications in smart grids: power quality assessment and assisted
-  independent living'
+title: Design a Fall Recovery Strategy for a Wheel-Legged Quadruped Robot Using Stability
+  Feature Space
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Patricio G. Donato
-- Alvaro Hernandez
-- Marcos A. Funes
-- Ignacio Carugati
-- Ruben Nieto
-- Jesus Urena
+- Juan Alejandro Castano
+- Chengxu Zhou
+- Nikos Tsagarakis
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-10-01'
+date: '2019-12-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-10-18T08:45:02.357468Z'
+publishDate: '2024-10-18T08:45:02.851395Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -29,10 +26,10 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2020 Argentine Conference on Automatic Control (AADECA)*'
+publication: '*2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)*'
 publication_short: ''
 
-doi: 10.23919/aadeca49780.2020.9301641
+doi: 10.1109/robio49542.2019.8961722
 
 abstract: ''
 
@@ -74,7 +71,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: http://dx.doi.org/10.23919/AADECA49780.2020.9301641
+  url: http://dx.doi.org/10.1109/robio49542.2019.8961722
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
