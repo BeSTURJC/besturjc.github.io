@@ -20,7 +20,7 @@ authors:
 date: '2021-12-01'
 publishDate: '2024-10-18T09:02:12.219880Z'
 publication_types:
-- article-journal
+- 1
 publication: '*Electronics*'
 doi: 10.3390/electronics10243118
 links:
