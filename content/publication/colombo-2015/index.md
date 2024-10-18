@@ -10,9 +10,9 @@ authors:
 - Ma Carmen Pérez
 - Enrique García
 date: '2015-10-01'
-publishDate: '2024-10-18T10:28:09.808208Z'
+publishDate: '2024-10-18T10:42:50.057944Z'
 publication_types:
-- 5
+- 0
 publication: '*2015 XVI Workshop on Information Processing and Control (RPIC)*'
 doi: 10.1109/rpic.2015.7497175
 links:

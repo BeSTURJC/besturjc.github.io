@@ -8,9 +8,9 @@ authors:
 - A. Cano
 - P. Fernandez
 date: '2009-01-01'
-publishDate: '2024-10-18T10:28:09.527545Z'
+publishDate: '2024-10-18T10:42:49.771359Z'
 publication_types:
-- 5
+- 0
 publication: '*2009 IEEE International Conference on Mechatronics*'
 doi: 10.1109/icmech.2009.4957158
 links:

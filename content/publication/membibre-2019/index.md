@@ -5,9 +5,9 @@ authors:
 - Ruben Nieto
 - Alvaro Hernandez
 date: '2019-09-01'
-publishDate: '2024-10-18T10:28:09.283418Z'
+publishDate: '2024-10-18T10:42:49.575232Z'
 publication_types:
-- 5
+- 0
 publication: '*2019 24th IEEE International Conference on Emerging Technologies and
   Factory Automation (ETFA)*'
 doi: 10.1109/etfa.2019.8869166

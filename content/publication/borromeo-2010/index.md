@@ -9,9 +9,9 @@ authors:
 - Norberto Malpica
 - Adolfo Toledano
 date: '2010-10-01'
-publishDate: '2024-10-18T10:28:08.775110Z'
+publishDate: '2024-10-18T10:42:49.067622Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Transactions on Instrumentation and Measurement*'
 doi: 10.1109/tim.2010.2057531
 links:

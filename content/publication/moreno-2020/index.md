@@ -6,9 +6,9 @@ authors:
 - Nitin Sharma
 - Antonio J. del-Ama
 date: '2020-01-01'
-publishDate: '2024-10-18T10:28:07.937979Z'
+publishDate: '2024-10-18T10:42:48.169687Z'
 publication_types:
-- 3
+- 4
 publication: '*Wearable Robotics*'
 doi: 10.1016/b978-0-12-814659-0.00018-7
 links:

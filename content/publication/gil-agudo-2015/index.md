@@ -10,9 +10,9 @@ authors:
 - A Segura-Fragoso
 - F Jiménez-Díaz
 date: '2015-08-01'
-publishDate: '2024-10-18T10:28:08.232523Z'
+publishDate: '2024-10-18T10:42:48.504010Z'
 publication_types:
-- 0
+- 1
 publication: '*Spinal Cord*'
 doi: 10.1038/sc.2015.140
 links:

@@ -9,9 +9,9 @@ authors:
 - Darwin G. Caldwell
 - Robin De Keyser
 date: '2015-12-01'
-publishDate: '2024-10-18T10:28:09.723670Z'
+publishDate: '2024-10-18T10:42:49.966413Z'
 publication_types:
-- 0
+- 1
 publication: '*Robotics and Autonomous Systems*'
 doi: 10.1016/j.robot.2015.09.001
 links:

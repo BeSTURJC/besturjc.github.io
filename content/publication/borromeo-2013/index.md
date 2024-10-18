@@ -11,9 +11,9 @@ authors:
 - Guillermo Luna
 - Juan Antonio Hernández-Tamames
 date: '2013-01-01'
-publishDate: '2024-10-18T10:28:08.681102Z'
+publishDate: '2024-10-18T10:42:48.971107Z'
 publication_types:
-- 3
+- 4
 publication: '*Converging Clinical and Engineering Research on Neurorehabilitation*'
 doi: 10.1007/978-3-642-34546-3_61
 links:

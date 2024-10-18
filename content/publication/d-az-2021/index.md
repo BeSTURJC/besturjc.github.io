@@ -6,9 +6,9 @@ authors:
 - Emilio J. Bueno
 - Rubén Nieto
 date: '2021-03-01'
-publishDate: '2024-10-18T10:28:09.151387Z'
+publishDate: '2024-10-18T10:42:49.450712Z'
 publication_types:
-- 0
+- 1
 publication: '*Electronics*'
 doi: 10.3390/electronics10060759
 links:

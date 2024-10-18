@@ -12,9 +12,9 @@ authors:
 - Begoña Polonio-López
 - Ángel Gil-Agudo
 date: '2015-07-01'
-publishDate: '2024-10-18T10:28:08.244524Z'
+publishDate: '2024-10-18T10:42:48.519011Z'
 publication_types:
-- 0
+- 1
 publication: '*Disability and Rehabilitation: Assistive Technology*'
 doi: 10.3109/17483107.2015.1027293
 links:

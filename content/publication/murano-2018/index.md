@@ -8,9 +8,9 @@ authors:
 - Chris J. Bleakley
 - Carlos De Marziani
 date: '2018-09-01'
-publishDate: '2024-10-18T10:28:09.767679Z'
+publishDate: '2024-10-18T10:42:50.016416Z'
 publication_types:
-- 5
+- 0
 publication: '*2018 International Conference on Indoor Positioning and Indoor Navigation
   (IPIN)*'
 doi: 10.1109/ipin.2018.8533702

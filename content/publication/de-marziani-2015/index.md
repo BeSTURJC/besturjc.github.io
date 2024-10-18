@@ -10,9 +10,9 @@ authors:
 - Alejandro Colombo
 - Jorge Pires
 date: '2015-03-01'
-publishDate: '2024-10-18T10:28:09.829209Z'
+publishDate: '2024-10-18T10:42:50.090936Z'
 publication_types:
-- 5
+- 0
 publication: '*2015 IEEE International Conference on Industrial Technology (ICIT)*'
 doi: 10.1109/icit.2015.7125602
 links:

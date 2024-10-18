@@ -13,9 +13,9 @@ authors:
 - José L. Pons
 - Juan C. Moreno
 date: '2016-10-01'
-publishDate: '2024-10-18T10:28:08.110010Z'
+publishDate: '2024-10-18T10:42:48.370488Z'
 publication_types:
-- 3
+- 4
 publication: '*Converging Clinical and Engineering Research on Neurorehabilitation
   II*'
 doi: 10.1007/978-3-319-46669-9_59

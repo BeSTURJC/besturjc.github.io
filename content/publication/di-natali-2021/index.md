@@ -11,9 +11,9 @@ authors:
 - Gianfranco Visentin
 - Jesús Ortiz
 date: '2021-04-01'
-publishDate: '2024-10-18T10:28:08.916163Z'
+publishDate: '2024-10-18T10:42:49.204144Z'
 publication_types:
-- 0
+- 1
 publication: '*Applied Sciences*'
 doi: 10.3390/app11083576
 links:

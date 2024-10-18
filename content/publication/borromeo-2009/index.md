@@ -9,9 +9,9 @@ authors:
 - N. Malpica
 - A. Toledano
 date: '2009-05-01'
-publishDate: '2024-10-18T10:28:08.797627Z'
+publishDate: '2024-10-18T10:42:49.089625Z'
 publication_types:
-- 5
+- 0
 publication: '*2009 IEEE International Workshop on Medical Measurements and Applications*'
 doi: 10.1109/memea.2009.5167959
 links:

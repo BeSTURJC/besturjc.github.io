@@ -7,9 +7,9 @@ authors:
 - J. L. Lázaro
 - I. Bravo
 date: '2016-09-01'
-publishDate: '2024-10-18T10:28:09.377442Z'
+publishDate: '2024-10-18T10:42:49.633249Z'
 publication_types:
-- 5
+- 0
 publication: '*Proceedings of the 10th International Conference on Distributed Smart
   Camera*'
 doi: 10.1145/2967413.2967423

@@ -9,9 +9,9 @@ authors:
 - A.E. Cano
 - P.A. Revenga
 date: '2009-09-01'
-publishDate: '2024-10-18T10:28:09.502545Z'
+publishDate: '2024-10-18T10:42:49.749356Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Transactions on Instrumentation and Measurement*'
 doi: 10.1109/tim.2009.2016807
 links:

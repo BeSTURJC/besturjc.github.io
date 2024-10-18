@@ -8,9 +8,9 @@ authors:
 - B. Arredondo
 - S. Borromeo
 date: '2010-01-01'
-publishDate: '2024-10-18T10:28:08.760107Z'
+publishDate: '2024-10-18T10:42:49.055624Z'
 publication_types:
-- 5
+- 0
 publication: '*IEEE EDUCON 2010 Conference*'
 doi: 10.1109/educon.2010.5492590
 links:

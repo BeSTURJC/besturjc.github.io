@@ -14,9 +14,9 @@ authors:
 - Jose L. Pons
 - Dario Farina
 date: '2022-01-01'
-publishDate: '2024-10-18T10:28:07.802452Z'
+publishDate: '2024-10-18T10:42:47.988836Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Transactions on Biomedical Engineering*'
 doi: 10.1109/tbme.2021.3087137
 links:

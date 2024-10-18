@@ -6,9 +6,9 @@ authors:
 - Przemyslaw Kryczka
 - Nikos Tsagarakis
 date: '2017-11-01'
-publishDate: '2024-10-18T10:28:09.690670Z'
+publishDate: '2024-10-18T10:42:49.928881Z'
 publication_types:
-- 5
+- 0
 publication: '*2017 IEEE-RAS 17th International Conference on Humanoid Robotics (Humanoids)*'
 doi: 10.1109/humanoids.2017.8246936
 links:

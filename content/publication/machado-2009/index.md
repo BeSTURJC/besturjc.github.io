@@ -5,9 +5,9 @@ authors:
 - Susana Borromeo
 - Norberto Malpica
 date: '2009-07-01'
-publishDate: '2024-10-18T10:28:08.808625Z'
+publishDate: '2024-10-18T10:42:49.101624Z'
 publication_types:
-- 5
+- 0
 publication: '*2009 IEEE International Conference on Microelectronic Systems Education*'
 doi: 10.1109/mse.2009.5270831
 links:

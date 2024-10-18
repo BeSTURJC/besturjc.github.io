@@ -9,9 +9,9 @@ authors:
 - Jorge de Vicente-Ranera
 - Álvaro Hernández
 date: '2022-10-01'
-publishDate: '2024-10-18T10:28:09.746681Z'
+publishDate: '2024-10-18T10:42:49.989419Z'
 publication_types:
-- 0
+- 1
 publication: '*Applied Acoustics*'
 doi: 10.1016/j.apacoust.2022.109030
 links:

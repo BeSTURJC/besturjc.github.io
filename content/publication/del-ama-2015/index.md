@@ -7,9 +7,9 @@ authors:
 - José Luis Pons Rovira
 - Juan C. Moreno
 date: '2015-01-01'
-publishDate: '2024-10-18T10:28:08.264523Z'
+publishDate: '2024-10-18T10:42:48.546046Z'
 publication_types:
-- 3
+- 4
 publication: '*Neurotechnology, Electronics, and Informatics*'
 doi: 10.1007/978-3-319-15997-3_2
 links:

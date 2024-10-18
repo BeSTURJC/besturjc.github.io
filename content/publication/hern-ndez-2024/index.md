@@ -9,9 +9,9 @@ authors:
 - Daniel Pizarro
 - Jesús Ureña
 date: '2024-01-01'
-publishDate: '2024-10-18T10:28:08.998675Z'
+publishDate: '2024-10-18T10:42:49.297660Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensors*'
 doi: 10.3390/s24020515
 links:

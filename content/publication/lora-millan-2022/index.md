@@ -6,9 +6,9 @@ authors:
 - Juan C. Moreno
 - E. Rocon
 date: '2022-05-01'
-publishDate: '2024-10-18T10:28:08.895164Z'
+publishDate: '2024-10-18T10:42:49.181150Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Bioengineering and Biotechnology*'
 doi: 10.3389/fbioe.2022.842294
 links:

@@ -6,9 +6,9 @@ authors:
 - Norberto Malpica
 - Susana Borromeo
 date: '2019-12-01'
-publishDate: '2024-10-18T10:28:08.556072Z'
+publishDate: '2024-10-18T10:42:48.835077Z'
 publication_types:
-- 0
+- 1
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0225795
 links:

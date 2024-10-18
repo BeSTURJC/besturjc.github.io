@@ -8,9 +8,9 @@ authors:
 - Cristina Losada
 - Felipe Espinosa
 date: '2019-06-01'
-publishDate: '2024-10-18T10:28:09.339442Z'
+publishDate: '2024-10-18T10:42:49.608235Z'
 publication_types:
-- 0
+- 1
 publication: '*International Journal for Numerical Methods in Engineering*'
 doi: 10.1002/nme.6131
 links:

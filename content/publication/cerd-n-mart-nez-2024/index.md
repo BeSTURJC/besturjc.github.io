@@ -7,9 +7,9 @@ authors:
 - Tomás Ortiz
 - Ricardo Vergaz
 date: '2024-01-01'
-publishDate: '2024-10-18T10:28:09.575573Z'
+publishDate: '2024-10-18T10:42:49.819355Z'
 publication_types:
-- 0
+- 1
 publication: '*Multimedia Tools and Applications*'
 doi: 10.1007/s11042-024-18218-8
 links:

@@ -7,9 +7,9 @@ authors:
 - Óscar Esteban
 - Carlos A. Luna
 date: '2009-02-01'
-publishDate: '2024-10-18T10:28:09.513553Z'
+publishDate: '2024-10-18T10:42:49.760377Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensor Letters*'
 doi: 10.1166/sl.2009.1004
 links:

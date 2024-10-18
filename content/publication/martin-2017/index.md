@@ -8,9 +8,9 @@ authors:
 - Santiago Garrido
 - Pavel Gonzalez
 date: '2017-01-01'
-publishDate: '2024-10-18T10:28:09.880240Z'
+publishDate: '2024-10-18T10:42:50.123939Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Access*'
 doi: 10.1109/access.2017.2724199
 links:

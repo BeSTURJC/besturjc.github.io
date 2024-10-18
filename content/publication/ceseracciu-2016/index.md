@@ -12,9 +12,9 @@ authors:
 - Ángel Gil
 - Monica Reggiani
 date: '2016-10-01'
-publishDate: '2024-10-18T10:28:08.043487Z'
+publishDate: '2024-10-18T10:42:48.301209Z'
 publication_types:
-- 3
+- 4
 publication: '*Wearable Robotics: Challenges and Trends*'
 doi: 10.1007/978-3-319-46532-6_43
 links:

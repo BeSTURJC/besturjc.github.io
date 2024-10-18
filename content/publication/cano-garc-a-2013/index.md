@@ -9,9 +9,9 @@ authors:
 - Yamilet Pompa-Chacón
 - Carlos Vázquez
 date: '2013-05-01'
-publishDate: '2024-10-18T10:28:09.402976Z'
+publishDate: '2024-10-18T10:42:49.657765Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensors*'
 doi: 10.3390/s130607184
 links:

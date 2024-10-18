@@ -10,9 +10,9 @@ authors:
 - Vicente Lozano-Berrio
 - Antonio J. del-Ama
 date: '2023-03-01'
-publishDate: '2024-10-18T10:28:07.792452Z'
+publishDate: '2024-10-18T10:42:47.974839Z'
 publication_types:
-- 0
+- 1
 publication: '*Journal of NeuroEngineering and Rehabilitation*'
 doi: 10.1186/s12984-023-01158-z
 links:

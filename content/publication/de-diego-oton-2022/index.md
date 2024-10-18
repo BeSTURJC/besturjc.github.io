@@ -6,9 +6,9 @@ authors:
 - Ruben Nieto
 - Ma Carmen Perez-Rubio
 date: '2022-06-01'
-publishDate: '2024-10-18T10:28:09.104469Z'
+publishDate: '2024-10-18T10:42:49.416175Z'
 publication_types:
-- 5
+- 0
 publication: '*2022 IEEE International Symposium on Medical Measurements and Applications
   (MeMeA)*'
 doi: 10.1109/memea54994.2022.9856406

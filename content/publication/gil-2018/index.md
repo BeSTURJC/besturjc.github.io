@@ -10,9 +10,9 @@ authors:
 - J.C. Moreno
 - A.J. Del-Ama
 date: '2018-10-01'
-publishDate: '2024-10-18T10:28:08.024487Z'
+publishDate: '2024-10-18T10:42:48.273207Z'
 publication_types:
-- 5
+- 0
 publication: '*2018 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 doi: 10.1109/iros.2018.8594219

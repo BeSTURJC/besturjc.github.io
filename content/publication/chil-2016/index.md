@@ -11,9 +11,9 @@ authors:
 - J.M. Udias
 - J.J Vaquero
 date: '2016-10-01'
-publishDate: '2024-10-18T10:28:08.577077Z'
+publishDate: '2024-10-18T10:42:48.856587Z'
 publication_types:
-- 5
+- 0
 publication: '*2016 IEEE Nuclear Science Symposium, Medical Imaging Conference and
   Room-Temperature Semiconductor Detector Workshop (NSS/MIC/RTSD)*'
 doi: 10.1109/nssmic.2016.8069698

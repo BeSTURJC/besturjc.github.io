@@ -8,9 +8,9 @@ authors:
 - A. Gil-Agudo
 - J.M. Azorín
 date: '2019-09-01'
-publishDate: '2024-10-18T10:28:07.967979Z'
+publishDate: '2024-10-18T10:42:48.204687Z'
 publication_types:
-- 0
+- 1
 publication: '*Neurocomputing*'
 doi: 10.1016/j.neucom.2019.06.021
 links:

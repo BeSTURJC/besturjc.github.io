@@ -12,9 +12,9 @@ authors:
 - Aracelys Garcia-Moreno
 - Antoni Ivorra
 date: '2023-02-01'
-publishDate: '2024-10-18T10:28:07.744934Z'
+publishDate: '2024-10-18T10:42:47.924318Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Transactions on Biomedical Engineering*'
 doi: 10.1109/tbme.2022.3200409
 links:

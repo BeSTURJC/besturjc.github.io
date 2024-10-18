@@ -10,9 +10,9 @@ authors:
 - Javier O. Roa
 - Juan C. Moreno
 date: '2018-10-01'
-publishDate: '2024-10-18T10:28:07.978980Z'
+publishDate: '2024-10-18T10:42:48.215686Z'
 publication_types:
-- 3
+- 4
 publication: '*Wearable Robotics: Challenges and Trends*'
 doi: 10.1007/978-3-030-01887-0_40
 links:

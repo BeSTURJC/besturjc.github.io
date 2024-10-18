@@ -10,9 +10,9 @@ authors:
 - María Sánchez
 - Alejandro Ureña
 date: '2023-09-01'
-publishDate: '2024-10-18T10:28:08.472560Z'
+publishDate: '2024-10-18T10:42:48.743083Z'
 publication_types:
-- 0
+- 1
 publication: '*ACS Applied Polymer Materials*'
 doi: 10.1021/acsapm.3c01689
 links:

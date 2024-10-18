@@ -6,9 +6,9 @@ authors:
 - Andres F. Hidalgo
 - Eduardo Rocon
 date: '2021-01-01'
-publishDate: '2024-10-18T10:28:08.927164Z'
+publishDate: '2024-10-18T10:42:49.218148Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Access*'
 doi: 10.1109/access.2021.3122160
 links:

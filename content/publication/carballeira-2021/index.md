@@ -6,9 +6,9 @@ authors:
 - Santiago Garrido
 - Luis Moreno
 date: '2021-01-01'
-publishDate: '2024-10-18T10:28:09.856210Z'
+publishDate: '2024-10-18T10:42:50.102938Z'
 publication_types:
-- 0
+- 1
 publication: '*SNE Simulation Notes Europe*'
 doi: 10.11128/sne.31.tn.10577
 links:

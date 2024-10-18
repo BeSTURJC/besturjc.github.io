@@ -7,9 +7,9 @@ authors:
 - Ruben Nieto
 - Alfredo Gardel
 date: '2016-10-01'
-publishDate: '2024-10-18T10:28:09.360416Z'
+publishDate: '2024-10-18T10:42:49.621249Z'
 publication_types:
-- 5
+- 0
 publication: '*2016 International Conference on Indoor Positioning and Indoor Navigation
   (IPIN)*'
 doi: 10.1109/ipin.2016.7743613

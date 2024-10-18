@@ -12,9 +12,9 @@ authors:
 - Fernando Seco
 - Antonio R. Jiménez
 date: '2024-01-01'
-publishDate: '2024-10-18T10:28:07.679519Z'
+publishDate: '2024-10-18T10:42:47.857310Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Journal of Biomedical and Health Informatics*'
 doi: 10.1109/jbhi.2024.3434973
 links:

@@ -6,9 +6,9 @@ authors:
 - Edwin van Asseldonk
 - Cristina Bayón
 date: '2023-07-01'
-publishDate: '2024-10-18T10:28:08.845629Z'
+publishDate: '2024-10-18T10:42:49.136144Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Bioengineering and Biotechnology*'
 doi: 10.3389/fbioe.2023.1188685
 links:

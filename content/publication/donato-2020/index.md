@@ -9,9 +9,9 @@ authors:
 - Ruben Nieto
 - Jesus Urena
 date: '2020-10-01'
-publishDate: '2024-10-18T10:28:09.263900Z'
+publishDate: '2024-10-18T10:42:49.553231Z'
 publication_types:
-- 5
+- 0
 publication: '*2020 Argentine Conference on Automatic Control (AADECA)*'
 doi: 10.23919/aadeca49780.2020.9301641
 links:

@@ -9,9 +9,9 @@ authors:
 - Susana Borromeo
 - Rafael Molina-Sanchez
 date: '2020-02-01'
-publishDate: '2024-10-18T10:28:08.989678Z'
+publishDate: '2024-10-18T10:42:49.284659Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Latin America Transactions*'
 doi: 10.1109/tla.2020.9085303
 links:

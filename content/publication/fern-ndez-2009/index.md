@@ -7,9 +7,9 @@ authors:
 - Ángel E. Cano
 - Ignacio Bravo
 date: '2009-12-01'
-publishDate: '2024-10-18T10:28:09.452976Z'
+publishDate: '2024-10-18T10:42:49.703840Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensors*'
 doi: 10.3390/s100100047
 links:

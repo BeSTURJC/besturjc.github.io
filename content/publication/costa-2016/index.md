@@ -9,9 +9,9 @@ authors:
 - Ángel Gil-Agudo
 - José M. Azorín
 date: '2016-04-01'
-publishDate: '2024-10-18T10:28:08.201524Z'
+publishDate: '2024-10-18T10:42:48.465009Z'
 publication_types:
-- 0
+- 1
 publication: '*PLOS ONE*'
 doi: 10.1371/journal.pone.0154136
 links:

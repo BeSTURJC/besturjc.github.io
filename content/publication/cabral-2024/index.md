@@ -7,9 +7,9 @@ authors:
 - Eduardo Rocon
 - Adriano de Oliveira Andrade
 date: '2024-02-01'
-publishDate: '2024-10-18T10:28:08.820626Z'
+publishDate: '2024-10-18T10:42:49.112624Z'
 publication_types:
-- 0
+- 1
 publication: '*Healthcare*'
 doi: 10.3390/healthcare12040448
 links:

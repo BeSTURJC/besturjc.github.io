@@ -8,9 +8,9 @@ authors:
 - Antonio J. del-Ama
 - Susana Borromeo
 date: '2023-11-01'
-publishDate: '2024-10-18T10:28:09.031676Z'
+publishDate: '2024-10-18T10:42:49.332664Z'
 publication_types:
-- 5
+- 0
 publication: '*2023 38th Conference on Design of Circuits and Integrated Systems (DCIS)*'
 doi: 10.1109/dcis58620.2023.10335993
 links:

@@ -7,9 +7,9 @@ authors:
 - David Lobato
 - José M. Cañas
 date: '2023-11-01'
-publishDate: '2024-10-18T10:28:09.042674Z'
+publishDate: '2024-10-18T10:42:49.345175Z'
 publication_types:
-- 0
+- 1
 publication: '*Microprocessors and Microsystems*'
 doi: 10.1016/j.micpro.2023.104974
 links:

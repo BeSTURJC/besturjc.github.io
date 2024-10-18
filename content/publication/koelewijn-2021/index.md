@@ -23,9 +23,9 @@ authors:
 - Dietmar Fey
 - Philipp Beckerle
 date: '2021-12-01'
-publishDate: '2024-10-18T10:28:07.876459Z'
+publishDate: '2024-10-18T10:42:48.084618Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Neurorobotics*'
 doi: 10.3389/fnbot.2021.750519
 links:

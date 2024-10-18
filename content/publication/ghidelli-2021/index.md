@@ -9,9 +9,9 @@ authors:
 - Diego Torricelli
 - Matteo Lancini
 date: '2021-06-01'
-publishDate: '2024-10-18T10:28:07.844455Z'
+publishDate: '2024-10-18T10:42:48.044357Z'
 publication_types:
-- 5
+- 0
 publication: '*2021 IEEE International Workshop on Metrology for Industry 4.0 &amp;
   IoT (MetroInd4.0&amp;IoT)*'
 doi: 10.1109/metroind4.0iot51437.2021.9488501

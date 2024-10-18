@@ -11,9 +11,9 @@ authors:
 - José Gallardo
 - Rómulo Alcoleas
 date: '2016-06-01'
-publishDate: '2024-10-18T10:28:09.794208Z'
+publishDate: '2024-10-18T10:42:50.041937Z'
 publication_types:
-- 5
+- 0
 publication: '*2016 3rd IEEE/OES South American International Symposium on Oceanic
   Engineering (SAISOE)*'
 doi: 10.1109/saisoe.2016.7922476

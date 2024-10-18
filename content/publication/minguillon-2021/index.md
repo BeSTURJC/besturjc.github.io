@@ -12,9 +12,9 @@ authors:
 - Aracelys García-Moreno
 - Antoni Ivorra
 date: '2021-03-01'
-publishDate: '2024-10-18T10:28:07.866459Z'
+publishDate: '2024-10-18T10:42:48.072612Z'
 publication_types:
-- 0
+- 1
 publication: '*Cold Spring Harbor Laboratory*'
 doi: 10.1101/2021.03.15.435404
 links:

@@ -8,9 +8,9 @@ authors:
 - O. Esteban
 - A. Cano
 date: '2007-01-01'
-publishDate: '2024-10-18T10:28:09.552544Z'
+publishDate: '2024-10-18T10:42:49.798355Z'
 publication_types:
-- 5
+- 0
 publication: '*2007 IEEE International Symposium on Intelligent Signal Processing*'
 doi: 10.1109/wisp.2007.4447504
 links:

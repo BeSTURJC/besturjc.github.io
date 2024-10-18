@@ -9,9 +9,9 @@ authors:
 - L. Perea
 - R. Raya
 date: '2020-11-01'
-publishDate: '2024-10-18T10:28:08.948163Z'
+publishDate: '2024-10-18T10:42:49.238660Z'
 publication_types:
-- 5
+- 0
 publication: '*2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics
   and Biomechatronics (BioRob)*'
 doi: 10.1109/biorob49111.2020.9224320

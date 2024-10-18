@@ -7,9 +7,9 @@ authors:
 - JosÃ© L. Pons
 - Juan C. Moreno
 date: '2014-05-01'
-publishDate: '2024-10-18T10:28:08.408552Z'
+publishDate: '2024-10-18T10:42:48.678560Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Human Neuroscience*'
 doi: 10.3389/fnhum.2014.00298
 links:

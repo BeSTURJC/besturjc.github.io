@@ -14,9 +14,9 @@ authors:
 - Antonio J. del-Ama
 - Juan Avendaño-Coy
 date: '2021-09-01'
-publishDate: '2024-10-18T10:28:07.896972Z'
+publishDate: '2024-10-18T10:42:48.117161Z'
 publication_types:
-- 0
+- 1
 publication: '*Journal of NeuroEngineering and Rehabilitation*'
 doi: 10.1186/s12984-021-00941-0
 links:

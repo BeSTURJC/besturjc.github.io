@@ -8,9 +8,9 @@ authors:
 - Alvaro Gutierrez
 - Eduardo Rocon
 date: '2023-01-01'
-publishDate: '2024-10-18T10:28:08.871656Z'
+publishDate: '2024-10-18T10:42:49.156146Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Access*'
 doi: 10.1109/access.2023.3336003
 links:
