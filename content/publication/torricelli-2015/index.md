@@ -1,83 +1,20 @@
 ---
-title: 'Benchmarking Bipedal Locomotion: A Unified Scheme for Humanoids, Wearable
-  Robots, and Humans'
-
-# Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+title: 'Benchmarking lower limb wearable robots: emerging approaches and technologies'
 authors:
 - Diego Torricelli
-- Jose Gonzalez-Vargas
-- Jan F. Veneman
-- Katja Mombaur
-- Nikos Tsagarakis
-- Antonio J. del-Ama
-- Angel Gil-Agudo
-- Juan C. Moreno
+- Antonio J. del Ama
+- Jose Gonzalez
+- Juan Moreno
+- Angel Gil
 - Jose L. Pons
-
-# Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
-author_notes: []
-
-date: '2015-09-01'
-
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-10-18T08:45:01.123996Z'
-
-# Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+date: '2015-07-01'
+publishDate: '2024-10-18T09:02:11.873965Z'
 publication_types:
-- article-journal
-
-# Publication name and optional abbreviated publication name.
-publication: '*IEEE Robotics &amp; Automation Magazine*'
-publication_short: ''
-
-doi: 10.1109/mra.2015.2448278
-
-abstract: ''
-
-# Summary. An optional shortened abstract.
-summary: ''
-
-tags: []
-
-# Display this page in a list of Featured pages?
-featured: false
-
-# Links
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-# Publication image
-# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
+- paper-conference
+publication: '*Proceedings of the 8th ACM International Conference on PErvasive Technologies
+  Related to Assistive Environments*'
+doi: 10.1145/2769493.2769589
 links:
 - name: URL
-  url: http://dx.doi.org/10.1109/MRA.2015.2448278
+  url: http://dx.doi.org/10.1145/2769493.2769589
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
