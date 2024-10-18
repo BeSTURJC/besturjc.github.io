@@ -10,9 +10,9 @@ authors:
 - S. Borromeo
 - J. Piqueras
 date: '2014-03-01'
-publishDate: '2024-10-18T10:28:08.639590Z'
+publishDate: '2024-10-18T10:42:48.921593Z'
 publication_types:
-- 5
+- 0
 publication: '*Oxide-based Materials and Devices V*'
 doi: 10.1117/12.2044456
 links:

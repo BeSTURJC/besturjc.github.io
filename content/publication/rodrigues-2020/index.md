@@ -15,9 +15,9 @@ authors:
 - Jose Luis Pons
 - Filipe O. Barroso
 date: '2020-11-01'
-publishDate: '2024-10-18T10:28:07.927974Z'
+publishDate: '2024-10-18T10:42:48.152689Z'
 publication_types:
-- 5
+- 0
 publication: '*2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics
   and Biomechatronics (BioRob)*'
 doi: 10.1109/biorob49111.2020.9224361

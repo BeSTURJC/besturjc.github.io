@@ -7,9 +7,9 @@ authors:
 - Roberto Cano-de-la-Cuerda
 - Antonio J. del-Ama
 date: '2021-09-01'
-publishDate: '2024-10-18T10:28:07.833452Z'
+publishDate: '2024-10-18T10:42:48.030850Z'
 publication_types:
-- 0
+- 1
 publication: '*International Journal of Environmental Research and Public Health*'
 doi: 10.3390/ijerph18189517
 links:

@@ -6,9 +6,9 @@ authors:
 - Luis Moreno
 - Juan Carballeira
 date: '2017-07-01'
-publishDate: '2024-10-18T10:28:09.869215Z'
+publishDate: '2024-10-18T10:42:50.113938Z'
 publication_types:
-- 5
+- 0
 publication: '*2017 25th Mediterranean Conference on Control and Automation (MED)*'
 doi: 10.1109/med.2017.7984203
 links:

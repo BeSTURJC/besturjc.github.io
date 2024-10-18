@@ -9,9 +9,9 @@ authors:
 - Antonio J. del-Ama
 - Ángel Gil-Agudo
 date: '2023-10-01'
-publishDate: '2024-10-18T10:28:07.709933Z'
+publishDate: '2024-10-18T10:42:47.885312Z'
 publication_types:
-- 0
+- 1
 publication: '*Neurorehabilitation and Neural Repair*'
 doi: 10.1177/15459683231206747
 links:

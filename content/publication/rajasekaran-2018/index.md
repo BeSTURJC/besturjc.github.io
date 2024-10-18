@@ -10,9 +10,9 @@ authors:
 - Antonio J. del-Ama
 - Jose L. Pons
 date: '2018-01-01'
-publishDate: '2024-10-18T10:28:08.033489Z'
+publishDate: '2024-10-18T10:42:48.286209Z'
 publication_types:
-- 0
+- 1
 publication: '*Journal of NeuroEngineering and Rehabilitation*'
 doi: 10.1186/s12984-017-0345-8
 links:

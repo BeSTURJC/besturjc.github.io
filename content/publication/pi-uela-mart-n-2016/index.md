@@ -7,9 +7,9 @@ authors:
 - Juan C. Fraile-Marinero
 - Ángel Gil-Agudo
 date: '2016-07-01'
-publishDate: '2024-10-18T10:28:08.211524Z'
+publishDate: '2024-10-18T10:42:48.475009Z'
 publication_types:
-- 0
+- 1
 publication: '*Revista Iberoamericana de Automática e Informática Industrial RIAI*'
 doi: 10.1016/j.riai.2015.09.012
 links:

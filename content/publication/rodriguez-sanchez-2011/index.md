@@ -5,9 +5,9 @@ authors:
 - S. Borromeo
 - J. A. Hernández-Tamames
 date: '2011-06-01'
-publishDate: '2024-10-18T10:28:08.750107Z'
+publishDate: '2024-10-18T10:42:49.039625Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Sensors Journal*'
 doi: 10.1109/jsen.2010.2093882
 links:

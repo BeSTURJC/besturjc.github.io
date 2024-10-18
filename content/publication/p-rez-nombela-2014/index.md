@@ -10,9 +10,9 @@ authors:
 - José Luis Pons
 - Ángel Gil-Agudo
 date: '2014-01-01'
-publishDate: '2024-10-18T10:28:08.428552Z'
+publishDate: '2024-10-18T10:42:48.700558Z'
 publication_types:
-- 3
+- 4
 publication: '*Replace, Repair, Restore, Relieve – Bridging Clinical and Engineering
   Solutions in Neurorehabilitation*'
 doi: 10.1007/978-3-319-08072-7_87

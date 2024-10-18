@@ -7,9 +7,9 @@ authors:
 - Carlos De Marziani
 - Darío Roldos
 date: '2023-11-01'
-publishDate: '2024-10-18T10:28:09.735670Z'
+publishDate: '2024-10-18T10:42:49.976416Z'
 publication_types:
-- 5
+- 0
 publication: '*2023 XX Workshop on Information Processing and Control (RPIC)*'
 doi: 10.1109/rpic59053.2023.10530769
 links:

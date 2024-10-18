@@ -10,9 +10,9 @@ authors:
 - J. Vaquero
 - J.A. Hernandez-Tamames
 date: '2012-04-01'
-publishDate: '2024-10-18T10:28:08.692109Z'
+publishDate: '2024-10-18T10:42:48.985108Z'
 publication_types:
-- 5
+- 0
 publication: '*Proceedings of the 2012 IEEE Global Engineering Education Conference
   (EDUCON)*'
 doi: 10.1109/educon.2012.6201172

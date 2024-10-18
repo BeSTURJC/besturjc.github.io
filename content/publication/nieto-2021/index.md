@@ -7,9 +7,9 @@ authors:
 - Alvaro Hernandez
 - Jesus Urena
 date: '2021-05-01'
-publishDate: '2024-10-18T10:28:09.165387Z'
+publishDate: '2024-10-18T10:42:49.463715Z'
 publication_types:
-- 5
+- 0
 publication: '*2021 IEEE International Instrumentation and Measurement Technology
   Conference (I2MTC)*'
 doi: 10.1109/i2mtc50364.2021.9460010

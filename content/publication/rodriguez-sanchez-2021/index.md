@@ -8,9 +8,9 @@ authors:
 - Susana Borromeo
 - Jose L. Lázaro-Galilea
 date: '2021-04-01'
-publishDate: '2024-10-18T10:28:08.524072Z'
+publishDate: '2024-10-18T10:42:48.801072Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensors*'
 doi: 10.3390/s21082614
 links:

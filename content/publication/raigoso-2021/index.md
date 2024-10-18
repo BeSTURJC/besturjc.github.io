@@ -8,9 +8,9 @@ authors:
 - Antonio J. del-Ama
 - Marcela Múnera
 date: '2021-06-01'
-publishDate: '2024-10-18T10:28:07.855456Z'
+publishDate: '2024-10-18T10:42:48.059358Z'
 publication_types:
-- 0
+- 1
 publication: '*Brain Sciences*'
 doi: 10.3390/brainsci11060738
 links:

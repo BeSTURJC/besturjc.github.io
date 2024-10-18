@@ -20,9 +20,9 @@ authors:
 - Pablo del Portillo
 - Miguel Martínez
 date: '2019-03-01'
-publishDate: '2024-10-18T10:28:09.273903Z'
+publishDate: '2024-10-18T10:42:49.564232Z'
 publication_types:
-- 0
+- 1
 publication: '*Measurement*'
 doi: 10.1016/j.measurement.2018.11.018
 links:

@@ -9,9 +9,9 @@ authors:
 - J. A. Hernandez-Tamames
 - M. Luaces
 date: '2012-08-01'
-publishDate: '2024-10-18T10:28:08.703109Z'
+publishDate: '2024-10-18T10:42:48.997107Z'
 publication_types:
-- 5
+- 0
 publication: '*2012 Annual International Conference of the IEEE Engineering in Medicine
   and Biology Society*'
 doi: 10.1109/embc.2012.6347379

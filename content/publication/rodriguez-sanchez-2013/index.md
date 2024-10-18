@@ -6,9 +6,9 @@ authors:
 - S. Borromeo
 - J.A. Hernandez-Tamames
 date: '2013-08-01'
-publishDate: '2024-10-18T10:28:08.659590Z'
+publishDate: '2024-10-18T10:42:48.942107Z'
 publication_types:
-- 0
+- 1
 publication: '*Expert Systems with Applications*'
 doi: 10.1016/j.eswa.2013.01.031
 links:

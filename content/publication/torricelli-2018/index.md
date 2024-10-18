@@ -13,9 +13,9 @@ authors:
 - Julian Florez
 - Jose L. Pons
 date: '2018-04-01'
-publishDate: '2024-10-18T10:28:08.011490Z'
+publishDate: '2024-10-18T10:42:48.261234Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Neurorobotics*'
 doi: 10.3389/fnbot.2018.00018
 links:

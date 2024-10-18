@@ -10,9 +10,9 @@ authors:
 - Juan Antonio Hernández
 - Juan Álvarez-linera
 date: '2012-07-01'
-publishDate: '2024-10-18T10:28:08.725107Z'
+publishDate: '2024-10-18T10:42:49.019108Z'
 publication_types:
-- 0
+- 1
 publication: '*Acta Otorrinolaringológica Española*'
 doi: 10.1016/j.otorri.2012.01.010
 links:

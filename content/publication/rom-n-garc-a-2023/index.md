@@ -8,9 +8,9 @@ authors:
 - María Cristina Rodriguez-Sanchez
 - Micael Gallego Carrillo
 date: '2023-05-01'
-publishDate: '2024-10-18T10:28:09.085469Z'
+publishDate: '2024-10-18T10:42:49.405174Z'
 publication_types:
-- 5
+- 0
 publication: '*2023 IEEE International Workshop on Metrology for Living Environment
   (MetroLivEnv)*'
 doi: 10.1109/metrolivenv56897.2023.10164028

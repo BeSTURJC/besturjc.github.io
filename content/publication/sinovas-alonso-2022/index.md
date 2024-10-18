@@ -10,9 +10,9 @@ authors:
 - Antonio J. del-Ama
 - Ángel Gil-Agudo
 date: '2022-04-01'
-publishDate: '2024-10-18T10:28:07.814454Z'
+publishDate: '2024-10-18T10:42:48.001840Z'
 publication_types:
-- 0
+- 1
 publication: '*Frontiers in Human Neuroscience*'
 doi: 10.3389/fnhum.2022.826333
 links:

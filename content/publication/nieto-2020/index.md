@@ -6,9 +6,9 @@ authors:
 - Raul Mateos
 - Alvaro Hernandez
 date: '2020-01-01'
-publishDate: '2024-10-18T10:28:09.254898Z'
+publishDate: '2024-10-18T10:42:49.541234Z'
 publication_types:
-- 0
+- 1
 publication: '*IEEE Access*'
 doi: 10.1109/access.2020.3031476
 links:

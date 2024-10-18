@@ -10,9 +10,9 @@ authors:
 - Vicente Lozano-Berrio
 - Angel Gil-Agudo
 date: '2017-03-01'
-publishDate: '2024-10-18T10:28:08.055487Z'
+publishDate: '2024-10-18T10:42:48.312990Z'
 publication_types:
-- 0
+- 1
 publication: '*NeuroRehabilitation*'
 doi: 10.3233/nre-161398
 links:

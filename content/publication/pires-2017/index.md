@@ -10,9 +10,9 @@ authors:
 - Santiago Murano
 - Darío Roldos
 date: '2017-09-01'
-publishDate: '2024-10-18T10:28:09.784207Z'
+publishDate: '2024-10-18T10:42:50.032429Z'
 publication_types:
-- 5
+- 0
 publication: '*2017 XVII Workshop on Information Processing and Control (RPIC)*'
 doi: 10.23919/rpic.2017.8211641
 links:

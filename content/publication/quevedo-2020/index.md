@@ -7,9 +7,9 @@ authors:
 - Concepcion A. Monje
 - Carlos Balaguer
 date: '2020-10-01'
-publishDate: '2024-10-18T10:28:09.631104Z'
+publishDate: '2024-10-18T10:42:49.872873Z'
 publication_types:
-- 5
+- 0
 publication: '*2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
 doi: 10.1109/iros45743.2020.9341779

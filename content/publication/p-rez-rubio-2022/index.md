@@ -11,9 +11,9 @@ authors:
 - José Manuel Villadangos
 - Rubén Nieto
 date: '2022-01-01'
-publishDate: '2024-10-18T10:28:09.137385Z'
+publishDate: '2024-10-18T10:42:49.438690Z'
 publication_types:
-- 0
+- 1
 publication: '*Sensors*'
 doi: 10.3390/s22031038
 links:

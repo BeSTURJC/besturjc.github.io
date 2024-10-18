@@ -11,9 +11,9 @@ authors:
 - Jan F. Veneman
 - Kristín Briem
 date: '2020-01-01'
-publishDate: '2024-10-18T10:28:07.917978Z'
+publishDate: '2024-10-18T10:42:48.139688Z'
 publication_types:
-- 0
+- 1
 publication: '*Human Factors: The Journal of the Human Factors and Ergonomics Society*'
 doi: 10.1177/0018720819883500
 links:
