@@ -7,9 +7,9 @@ authors:
 - Ángel Gil-Agudo
 - Antonio J. del-Ama
 date: '2022-07-01'
-publishDate: '2024-10-18T13:01:33.961856Z'
+publishDate: '2024-10-20T09:55:20.150800Z'
 publication_types:
-- 7
+- 2
 publication: '*Frontiers in Bioengineering and Biotechnology*'
 doi: 10.3389/fbioe.2022.874074
 links:

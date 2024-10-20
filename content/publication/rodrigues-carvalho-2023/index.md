@@ -12,9 +12,9 @@ authors:
 - Juan C. Moreno
 - Antonio J. del-Ama
 date: '2023-01-01'
-publishDate: '2024-10-18T13:01:33.888340Z'
+publishDate: '2024-10-20T09:55:20.072290Z'
 publication_types:
-- 8
+- 2
 publication: '*Sensors*'
 doi: 10.3390/s23020791
 links:

@@ -18,9 +18,9 @@ authors:
 - Filipe Oliveira Barroso
 - Antoni Ivorra
 date: '2023-07-01'
-publishDate: '2024-10-18T13:01:33.864340Z'
+publishDate: '2024-10-20T09:55:20.045294Z'
 publication_types:
-- 5
+- 2
 publication: '*Cold Spring Harbor Laboratory*'
 doi: 10.1101/2023.06.30.547056
 links:

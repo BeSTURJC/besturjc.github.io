@@ -13,9 +13,9 @@ authors:
 - Sara García De Villa
 - Antonio R. Jiménez-Ruiz
 date: '2024-08-01'
-publishDate: '2024-10-18T13:01:33.800797Z'
+publishDate: '2024-10-20T09:55:19.968764Z'
 publication_types:
-- 5
+- 2
 publication: '*Applied Sciences*'
 doi: 10.3390/app14156704
 links:

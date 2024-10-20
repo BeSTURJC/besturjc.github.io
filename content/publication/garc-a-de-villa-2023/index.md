@@ -11,9 +11,9 @@ authors:
 - María Cristina Rodríguez Sánchez
 - Antonio R. Jiménez
 date: '2023-08-01'
-publishDate: '2024-10-18T13:01:33.851817Z'
+publishDate: '2024-10-20T09:55:20.030289Z'
 publication_types:
-- 1
+- 2
 publication: '*Scientific Data*'
 doi: 10.1038/s41597-023-02428-0
 links:

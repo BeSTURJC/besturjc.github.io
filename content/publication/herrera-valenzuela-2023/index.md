@@ -11,9 +11,9 @@ authors:
 - Juan C. Moreno
 - Antonio J. del-Ama
 date: '2023-10-01'
-publishDate: '2024-10-18T13:01:33.900339Z'
+publishDate: '2024-10-20T09:55:20.085288Z'
 publication_types:
-- 6
+- 2
 publication: '*Journal of NeuroEngineering and Rehabilitation*'
 doi: 10.1186/s12984-023-01264-y
 links:
