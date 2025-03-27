@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pedro Rafael Fernández Barbosa
+title: Pedro Fernández Barbosa
 
 # Is this the primary user of the site?
 superuser: true
