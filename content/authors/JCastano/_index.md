@@ -10,17 +10,17 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Rey Juan Carlos University
-  url: "https://www.urjc.es"
+  - name: Rey Juan Carlos University
+    url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Juan Alejandro Castaño Peña is an Assistant Professor at Rey Juan Carlos University, specializing in robotics, control systems, and power electronics. He holds a Ph.D. in Robotics Cognition and Interactive Technologies from the University of Genoa, Italy, and a Master's in Electronic Engineering from the Pontifical Javeriana University. His research focuses on localization, mapping, navigation, and control of mobile manipulators, as well as the application of optimization algorithms in various aspects of mobile robotics. He actively collaborates with international institutions and has extensive experience in both academic and applied research.
 
 education:
   courses:
-  - course: Ph.D. in Robotics Cognition and Interactive Technologies
-    institution: University of Genoa, Italy
-    year: 2022
+    - course: Ph.D. in Robotics Cognition and Interactive Technologies
+      institution: University of Genoa, Italy
+      year: 2022
 #  - course: M.Sc. in Telecommunication Engineering
 #    institution: University of Alcala
 #    year: 2016
@@ -29,13 +29,13 @@ education:
 #    year: 2015
 
 interests:
-- Localization
-- Mapping
-- Navigation
-- Control of Mobile Manipulators
-- Optimization Algorithms
-- Robotics
-- Wireless Communication Systems
+  - Localization
+  - Mapping
+  - Navigation
+  - Control of Mobile Manipulators
+  - Optimization Algorithms
+  - Robotics
+  - Wireless Communication Systems
 
 
 # Social/Academic Networking
@@ -43,13 +43,13 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: university
-  icon_pack: fas
-  link: https://gestion2.urjc.es/pdi/ver/juan.castano
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:juan.castano@urjc.es'
-# - icon: twitter
+  - icon: university
+    icon_pack: fas
+    link: https://gestion2.urjc.es/pdi/ver/juan.castano
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:juan.castano@urjc.es'
+#  - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/rubennc91
 # - icon: google-scholar
@@ -87,5 +87,3 @@ Thanks to his performance, he was awarded a scholarship by the RETECA foundation
 After completing his Ph.D., he was hired at the Italian Institute of Technology as a postdoctoral researcher, completing his investigations and carrying out new projects, always within the field of applied robotics, extending it to the research field of quadrupeds and locomotion with wheels and legs. Once this experience concluded, he was hired as a visiting professor at Carlos III University of Madrid. As a professor, he has been teaching various courses in both Spanish and English. Direct contact with the academic world has allowed him to develop both humanly and professionally in a very satisfactory direction, which he wishes to continue.
 
 He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
-
-
