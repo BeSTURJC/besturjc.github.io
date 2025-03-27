@@ -6,7 +6,7 @@ title: Pedro Rafael Fernández Barbosa
 superuser: true
 
 # Role/position
-role: Visitor Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
