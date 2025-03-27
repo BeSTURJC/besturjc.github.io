@@ -10,7 +10,7 @@ last_name: Borromeo
 superuser: false
 
 # Role/position
-role: Professor of ...
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,18 @@ organizations:
     url: 'https://www.urjc.es/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, ...
+bio: My research interests include neuroimaging instrumentation, the use of olfaction as a biomarker for neurodegenerative diseases, and the development of digital electronic systems. I have extensive experience leading R&D projects in collaboration with prestigious institutions like the Massachusetts Institute of Technology (MIT) and have contributed to numerous scientific publications and patents.
 
 interests:
-  - Interest One.
-  - Interest Two.
-  - Interest Three.
+  - Distributed Robotics.
+  - Neuroimaging Instrumentation.
+  - Biomedical Engineering.
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Industrial Engineering
+      institution:  Polytechnic University of Madrid
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'susana.borromeo@urjc.es'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,7 +60,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Susana Borromeo es Dra. Ingeniero Industrial por la Universidad Politécnica de Madrid, donde comenzó su trayectoria profesional desarrollando sistemas electrónicos digitales en la División de Ingeniería Electrónica de la UPM.
-En 2004 se incorpora al grupo de Bioingeniería e Imagen Médica de la Universidad Rey Juan Carlos, de la que es Profesora Contratado Doctor. Desde 2007 a 2013 forma parte del Laboratorio de Análisis de Imagen Médica de la Fundación-CIEN-Fundación Reina Sofía (Proyecto Alzheimer), donde desarrolla la línea de instrumentación electrónica para neuroimagen y dirige la línea de el olfato como biomarcador de enfermedades neurodegenerativas utilizando técnicas de imagen.
-Entre 2009 y 2011 ha sido Responsable del Laboratorio de Diseño de Circuitos Digitales y Tecnología Electrónica de la Red de Laboratorios de ¿Madrid I+D¿, desde donde se han desarrollado varios sistemas electrónicos basados en comunicaciones inalámbricas en distintos campos de aplicación como la salud y la discapacidad. En 2012 se incorpora como vocal de la Comisión ¿Ingeniería Médica y Sanitaria¿ del Colegio Oficial de Ingenieros Industriales de Madrid. Desde Octubre de 2016  también es vocal de la Comisión de la Comisión de Enseñanza de la Ingeniería Industrial del Colegio Oficial de Ingenieros Industriales de Madrid (COIIM). En febrero de 2017 se incorpora al Comité Universidad, Formación y Empleo del Instituto de la Ingeniería de España. desde Enero de 2018. Desde enero de 2018 ocupa el puesto de tesorero del IEEE Spain Section Instrumentation and Measurement Society Chapter .  
-Durante estos años ha participado en 20 proyectos de I+D financiados en convocatorias públicas, siendo Investigador principal en cinco de ellos. También ha participado en más de 30 contratos de I+D con empresas y hospitales, destacando el proyecto Team Cell a través del consorcio de colaboración científica Madrid-MIT M+Visión entre entes de la Comunidad de Madrid y el Massachusetts Institute of Technology (MIT). Además de los artículos referenciados en el Web of Science y de su participación en más de 40 congresos, es coinventora de 2 patentes, 1 de ellas en explotación y 4 registros software. Señalar como productos de transferencia tecnológica dos productos comerciales, dos dispositivos de registro de la señal cardiaca en tiempo real mediante tecnologías Bluetooth que han obtenido el certificado por la FDA y marcado CE.
+Susana Borromeo holds a Ph.D. in Industrial Engineering from the Polytechnic University of Madrid, where she began her professional career developing digital electronic systems in the Electronic Engineering Division of UPM.
+
+In 2004, she joined the Bioengineering and Medical Imaging group at the Rey Juan Carlos University. From 2007 to 2013, she was part of the Medical Image Analysis Laboratory at the CIEN Foundation - Queen Sofia Foundation (Alzheimer Project), where she developed the electronic instrumentation line for neuroimaging and led the line on olfaction as a biomarker for neurodegenerative diseases using imaging techniques.
+
+Between 2009 and 2011, she was Head of the Digital Circuit Design and Electronic Technology Laboratory of the Madrid I+D Laboratory Network, where several electronic systems based on wireless communications were developed in various fields of application such as health and disability. In 2012, she joined the "Medical and Health Engineering" Commission of the Official College of Industrial Engineers of Madrid as a member. Since October 2016, she has also been a member of the Teaching Commission of the Industrial Engineering Commission of the Official College of Industrial Engineers of Madrid (COIIM). In February 2017, she joined the University, Training, and Employment Committee of the Institute of Engineering of Spain. Since January 2018, she has held the position of treasurer of the IEEE Spain Section Instrumentation and Measurement Society Chapter.
+
+Over the years, she has participated in 20 R&D projects funded by public calls, being the principal investigator in five of them. She has also participated in more than 30 R&D contracts with companies and hospitals, highlighting the Team Cell project through the Madrid-MIT M+Visión scientific collaboration consortium between entities of the Community of Madrid and the Massachusetts Institute of Technology (MIT). In addition to the articles referenced in the Web of Science and her participation in more than 40 conferences, she is co-inventor of 2 patents, 1 of which is in exploitation, and 4 software registrations. Notable technology transfer products include two commercial products, two real-time cardiac signal recording devices using Bluetooth technologies that have obtained FDA certification and CE marking.
