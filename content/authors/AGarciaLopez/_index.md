@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alvaro Garcia Lopez
+title: Álvaro García-López
 
 # Is this the primary user of the site?
 superuser: false
