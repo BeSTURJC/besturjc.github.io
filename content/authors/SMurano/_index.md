@@ -6,7 +6,7 @@ title: Santiago Emmanuel F. Murano
 superuser: false
 
 # Role/position
-role: Visiting Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
