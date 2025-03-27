@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Álvaro García
+title: Álvaro García López
 
 # Full Name (for SEO)
 first_name: Álvaro
