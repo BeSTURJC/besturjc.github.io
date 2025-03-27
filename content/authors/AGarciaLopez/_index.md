@@ -1,6 +1,10 @@
 ---
 # Display name
-title: Álvaro García-López
+title: Álvaro
+
+# Full Name (for SEO)
+first_name: Álvaro
+last_name: García López
 
 # Is this the primary user of the site?
 superuser: false
