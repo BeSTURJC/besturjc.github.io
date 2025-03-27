@@ -11,10 +11,9 @@ Our colleague Antonio J. del Ama Espinosa recently participated in the IV SEMEG 
 
 During the session on #Innovation, moderated by Dr. María Ángeles Caballero Mora and Dr. Marta Neira Alvarez, Antonio shared his engineering perspective on how technologies based on #ArtificialVision 👁️, #Robotics 🤖, and #Wearables ⌚, combined with #AI 🧠, can aid in the diagnosis and prevention of falls. The subsequent debate highlighted the need for:
 
-    Enhanced collaboration between engineering and clinical fields to advance and implement new technologies. 🤝
-	
-    Developing devices that can gather more and better data, ideally during activities outside the clinic, to achieve a real impact of the Technology-AI duo in this area. 📊
+- Enhanced collaboration between engineering and clinical fields to advance and implement new technologies. 🤝
+- Developing devices that can gather more and better data, ideally during activities outside the clinic, to achieve a real impact of the Technology-AI duo in this area. 📊
 
 Antonio expressed his gratitude to the Spanish Society of Geriatric Medicine and especially to Dr. Marta Neira Alvarez for the invitation. 🌟
 
-#BeSTResearchGroup #ProjectNIMBLE #ProjectExoSenSoC #RehabilitationInnovation #Bioengineering #ConferencePresentations #CuttingEdgeResearch #CollaborationOpportunities #HealthcareAdvancements
+#SEMEGConference #GeriatricMedicine #FallPrevention #InnovationInHealthcare #ArtificialVision #Robotics #WearableTechnology #AIinHealthcare #CollaborativeResearch #HealthcareInnovation #QualityOfLife #ElderlyCare #AntonioDelAmaEspinosa #URJC
