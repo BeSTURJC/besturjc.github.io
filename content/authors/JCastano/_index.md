@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juan Alejandro Castaño
+title: Juan Alejandro Castano
 
 # Full Name (for SEO)
 first_name: Juan Alejandro
