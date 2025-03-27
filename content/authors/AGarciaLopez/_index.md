@@ -18,9 +18,9 @@ bio: My research interests include metrology and quality control, electronic ins
 
 education:
   courses:
-    - course: Ph.D. in ...
-      institution: University of ...
-      year: ...
+  - course: Ph.D. in ...
+    institution: University of ...
+    year: ...
 #  - course: M.Sc. in Telecommunication Engineering
 #    institution: University of Alcala
 #    year: 2016
@@ -29,37 +29,34 @@ education:
 #    year: 2015
 
 interests:
-  - Metrology and Quality Control
-  - Electronic Instrumentation
-  - Automation and Electronics
-  - Accessibility in Performing Arts
-  - Audiovisual Systems Architecture
-  - Signal Processing
-  - Photonic Technologies
-  - Multidisciplinary Research Collaboration
-  - Industrial Electronics
-  - Software Development for Engineering Applications
-  
+- Metrology and Quality Control
+- Electronic Instrumentation
+- Automation and Electronics
+- Accessibility in Performing Arts
+- Audiovisual Systems Architecture
+- Signal Processing
+- Photonic Technologies
+- Multidisciplinary Research Collaboration
+- Industrial Electronics
+- Software Development for Engineering Applications
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #  form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: university
-    icon_pack: fas
-    link: https://gestion2.urjc.es/pdi/ver/alvaro.garcia.lopez
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:alvaro.garcia.lopez@urjc.es'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/rubennc91
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=WqmslFkAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/AGLURJC
+- icon: university
+  icon_pack: fas
+  link: https://gestion2.urjc.es/pdi/ver/alvaro.garcia.lopez
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:alvaro.garcia.lopez@urjc.es'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=WqmslFkAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AGLURJC
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/rubennietoc/
