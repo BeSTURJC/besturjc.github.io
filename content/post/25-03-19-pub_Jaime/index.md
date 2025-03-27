@@ -13,6 +13,6 @@ These devices represent a crucial opportunity for the transition from stationary
 
 Written by: Jaime Ramos Rojas and Antonio J. del Ama Espinosa, with the collaboration of Emma Pérez Martín.
 
-🔗 Read the full publication here
+🔗 Read the full publication here: https://ieeexplore.ieee.org/document/10930504
 
 #BeSTResearchGroup #ProjectNIMBLE #ProjectExoSenSoC #RehabilitationInnovation #Bioengineering #ConferencePresentations #CuttingEdgeResearch #CollaborationOpportunities #HealthcareAdvancements
