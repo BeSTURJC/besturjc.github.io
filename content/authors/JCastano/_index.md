@@ -87,3 +87,5 @@ Thanks to his performance, he was awarded a scholarship by the RETECA foundation
 After completing his Ph.D., he was hired at the Italian Institute of Technology as a postdoctoral researcher, completing his investigations and carrying out new projects, always within the field of applied robotics, extending it to the research field of quadrupeds and locomotion with wheels and legs. Once this experience concluded, he was hired as a visiting professor at Carlos III University of Madrid. As a professor, he has been teaching various courses in both Spanish and English. Direct contact with the academic world has allowed him to develop both humanly and professionally in a very satisfactory direction, which he wishes to continue.
 
 He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
+
+
