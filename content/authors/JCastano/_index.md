@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juan Alejandro Castano
+title: Juan A. Castano Pena
 
 # Full Name (for SEO)
 first_name: Juan Alejandro
